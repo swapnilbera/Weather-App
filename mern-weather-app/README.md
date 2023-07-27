@@ -71,7 +71,7 @@
 
 ```bash
 # Clone this repository
-$ https://github.com/rahul9852-dot/Assignment-Weather-App.git
+$ https://github.com/swapnilbera/Weather-App/tree/main/mern-weather-app
 
 # Install dependencies
 $ npm run setup
